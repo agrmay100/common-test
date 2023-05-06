@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">mysampleapp</string>
+
+
+    <string name="hero1">Nick the Night and Day</string>
+    <string name="description1">The Jetpack Hero</string>
+    <string name="hero2">Reality Protector</string>
+    <string name="description2">Understands the absolute truth</string>
+    <string name="hero3">Andre the Giant</string>
+    <string name="description3">Mimics the light and night to blend in</string>
+    <string name="hero4">Benjamin the Brave</string>
+    <string name="description4">Harnesses the power of canary to develop bravely</string>
+    <string name="hero5">Magnificent Maru</string>
+    <string name="description5">Effortlessly glides in to save the day</string>
+    <string name="hero6">Dynamic Yasmine</string>
+    <string name="description6">Ability to shift to any form and energize</string>
+    <string name="app_bar">Sample App</string>
+
+<!--    for scramble game-->
+    <string name="word_count">%d of 10 words </string>
+    <string name="score">Score: %d</string>
+    <string name="instructions">some instructions</string>
+    <string name="skip">Skip</string>
+    <string name="submit">Submit</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="you_scored">Scored: %d</string>
+    <string name="enter_your_word">Enter Word</string>
+    <string name="wrong_guess">Wrong Guesss!</string>
+</resources>
